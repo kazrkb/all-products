@@ -1,6 +1,5 @@
 Dataset/
 dataset_sliced/
 outputs/
-runs/
 __pycache__/
 .ipynb_checkpoints/
