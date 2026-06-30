@@ -3,3 +3,7 @@ dataset_sliced/
 outputs/
 __pycache__/
 .ipynb_checkpoints/
+
+# Ignore intermediate weights
+runs/detect/retail_shelf_yolo26m/weights/epoch*.pt
+runs/detect/retail_shelf_yolo26m/weights/last.pt
